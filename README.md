@@ -32,6 +32,7 @@ For 2024/25, we plan to develop a BCI that will allow individuals with motor imp
 
 ### Data Collection team
 [Ethan Noulton](https://github.com/ENoulton)
+[Altair Kurban](https://github.com/Hermuid) 
 
 # Core Features
 ## Machine Learning team
